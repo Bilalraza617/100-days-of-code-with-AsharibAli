@@ -6,9 +6,9 @@ list.forEach(function (name) {
         " meri taraf sy dinner ki dawat ko qabol kary or aj rat ka khan mery sath khaiy.");
 });
 //Q15 ans
-console.log("Suno logo ".concat(list[0], " dinner pr nahi aiy ga"));
+console.log("Suno logo ".concat(list[0], " dinner pr nahi aiy ga."));
 list[list.indexOf("Hitesh chudray")] = "Bilal";
 for (var _i = 0, list_1 = list; _i < list_1.length; _i++) {
     var item = list_1[_i];
-    console.log("".concat(item, " bhai agr hitesh nahi araha to to kia howa ap ajao"));
+    console.log("".concat(item, " bhai agr hitesh nahi araha to to kia howa ap ajao."));
 }
