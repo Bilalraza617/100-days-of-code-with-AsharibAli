@@ -17,4 +17,4 @@ user_name.forEach((user) => {
 
 user_name.length = 0;
 
-if (user_name.length === 0) console.log("\nWe need to find some users!");
+if (user_name.length === 0) console.log("\nWe need to find some users!\n");
